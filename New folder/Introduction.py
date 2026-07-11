@@ -1,3 +1,8 @@
-print("Hello, my name is Hitt Jain.")
+name = "Hitt Jain"
+age = 21
+goal = "To become a proficient Python developer"
+
+print("Hello, my name is : " + name)
+print("My age is : " + str(age))
 print("I am starting my journey to learn Python.")
-print("I want to build strong programming skills from scratch.")
+print("My goal is : " + goal )
